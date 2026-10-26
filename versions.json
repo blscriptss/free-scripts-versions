@@ -13,5 +13,8 @@
   },
   "bl_easterhunt": {
     "latest": "1.0.2"
+  },
+  "bl_trickortreat": {
+    "latest": "1.0.0"
   }
 }
